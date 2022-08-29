@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-GitHub issues:	GitHub issues badge	https://img.shields.io/github/issues/Snailclimb/JavaGuide
-GitHub forks:	GitHub forks badge	https://img.shields.io/github/forks/Snailclimb/JavaGuide
-GitHub stars:	GitHub stars badge	https://img.shields.io/github/stars/Snailclimb/JavaGuide
-GitHub license:	GitHub license badge	https://img.shields.io/github/license/Snailclimb/JavaGuide
-Twitter:	Twitter badge	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FSnailclimb%2FJavaGuide
+- ![CSDN图标](https://img.shields.io/github/issues/Snailclimb/JavaGuide "CSDN图标")
+- ![CSDN图标](https://img.shields.io/github/forks/Snailclimb/JavaGuide "CSDN图标")
+- ![CSDN图标](https://img.shields.io/github/stars/Snailclimb/JavaGuide "CSDN图标")
+- ![CSDN图标](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FSnailclimb%2FJavaGuide "CSDN图标")
+
 
