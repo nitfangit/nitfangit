@@ -1,3 +1,9 @@
 
 
-### 这是一个封面
+# My Doc
+
+
+
+[Get Started](README.md)
+
+[GitHub](https://github.com/nitfangit/nitfangit.github.io)
